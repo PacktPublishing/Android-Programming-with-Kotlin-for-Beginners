@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sound Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinner_options">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+</resources>

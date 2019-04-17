@@ -1,0 +1,1 @@
+Only two Kotlin files are changed in this chapter. DialogNewNote and DialogShowNote.

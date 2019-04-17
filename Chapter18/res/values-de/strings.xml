@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hinweis auf selbst</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="action_add">add</string>
+    <string name="title_hint">Titel</string>
+    <string name="description_hint">Beschreibung</string>
+    <string name="idea_text">Idee</string>
+    <string name="important_text">Wichtig</string>
+    <string name="todo_text">zu tun</string>
+    <string name="cancel_button">Abbrechen</string>
+    <string name="ok_button">Okay</string>
+
+    <string name="settings_title">Einstellungen</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="add_new_note">Eine neue Note hinzufügen</string>
+    <string name="your_note">Ihre Notiz</string>
+</resources>
