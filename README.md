@@ -10,13 +10,13 @@ This is the code repository for [Android Programming with Kotlin for Beginners](
 Android is the most popular mobile operating system in the world and Kotlin has been declared by Google as a first-class programming language to build Android apps. With the imminent arrival of the most anticipated Android update, Android 10 (Q), this book gets you started building apps compatible with the latest version of Android.
 
 This book covers the following exciting features:
-Learn how Kotlin and Android work together 
-Build a graphical drawing app using Object-Oriented Programming (OOP) principles 
-Build beautiful, practical layouts using ScrollView, RecyclerView, NavigationView, ViewPager and CardView 
-Write Kotlin code to manage an apps' data using different strategies including JSON and the built-in Android SQLite database 
-Add user interaction, data captures, sound, and animation to your apps 
-Implement dialog boxes to capture input from the user 
-Build a simple database app that sorts and stores the user's data 
+* Learn how Kotlin and Android work together 
+* Build a graphical drawing app using Object-Oriented Programming (OOP) principles 
+* Build beautiful, practical layouts using ScrollView, RecyclerView, NavigationView, ViewPager and CardView 
+* Write Kotlin code to manage an apps' data using different strategies including JSON and the built-in Android SQLite database 
+* Add user interaction, data captures, sound, and animation to your apps 
+* Implement dialog boxes to capture input from the user 
+* Build a simple database app that sorts and stores the user's data 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789615402) today!
 
